@@ -1,4 +1,4 @@
-# Lenovo Y9000X 2020 9750H 4K-Opencore
+# Lenovo Y9000X 2020 9750H 4K-Hackintosh
 
 #### 介绍
 安装 ALCPlugFix-Swift 来修复扬声器切换异常问题, 终端使用以下命安装或卸载 ALCPlugFix
