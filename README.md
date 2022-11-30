@@ -11,11 +11,11 @@ bash -c "$(curl -fsSL https://gitee.com/YasuStudio/fix-speaker-y9000x/raw/master
 机型为16,4（请注意，这是更符合i7版本的机型，其他CPU型号使用前请自行判断风险），以获得更合适的机型模拟电源策略（长期测试发现风扇会安静一些），更改机型的同时请注意USB定制，本次更新同时更新了USBPort.kext。新增启动参数igfxagdc=0，解决TYPE-C直连DP显示器，TYPE-C转HDMI显示器输出问题。
 
  #### **配置** 
-- 主板 HM370
-- CPU i7-9750H
+- 主板：HM370
+- CPU：i7-9750H
 - 分辨率：4K
 - 硬盘：西数SN750+SN550
-- 网卡:博通94360Z3
+- 网卡：博通94360Z3
 
 #### 安装教程
 
